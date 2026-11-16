@@ -1,0 +1,6 @@
+test_id,max_allowed_cpu,expected_result
+TC01,80,true
+TC02,75,true
+TC03,70,false
+TC04,90,true
+TC05,50,false

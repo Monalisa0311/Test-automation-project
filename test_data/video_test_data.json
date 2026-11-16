@@ -1,0 +1,24 @@
+{
+    "frame_drop_tests": [
+        {
+            "test_id": "TC01",
+            "max_allowed_frames": 5,
+            "expected_result": true
+        },
+        {
+            "test_id": "TC02",
+            "max_allowed_frames": 3,
+            "expected_result": true
+        },
+        {
+            "test_id": "TC03",
+            "max_allowed_frames": 2,
+            "expected_result": false
+        },
+        {
+            "test_id": "TC04",
+            "max_allowed_frames": 0,
+            "expected_result": false
+        }
+    ]
+}

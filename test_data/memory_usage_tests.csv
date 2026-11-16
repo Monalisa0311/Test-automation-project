@@ -1,0 +1,6 @@
+test_id,max_allowed_memory,expected_result
+TC01,500,true
+TC02,450,true
+TC03,400,false
+TC04,600,true
+TC05,300,false

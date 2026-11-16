@@ -1,0 +1,6 @@
+test_id,max_allowed_temperature,expected_result
+TC01,45,true
+TC02,42,true
+TC03,40,false
+TC04,50,true
+TC05,35,false

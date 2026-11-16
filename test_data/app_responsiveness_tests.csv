@@ -1,0 +1,5 @@
+test_id,expected_responsive,expected_result
+TC01,true,true
+TC02,false,false
+TC03,true,true
+TC04,false,false

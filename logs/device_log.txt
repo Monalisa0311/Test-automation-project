@@ -1,0 +1,11 @@
+11:00:01 INFO Device connected successfully
+11:00:02 INFO Video playback started
+11:00:03 INFO Resolution: 1920x1080
+11:00:04 WARNING FPS dropped to 45
+11:00:05 ERROR Frame drop detected: 15 frames
+11:00:06 INFO Audio video synchronization: 35ms
+11:00:07 ERROR FATAL EXCEPTION: main
+11:00:08 ERROR Application crashed
+11:00:09 WARNING High CPU usage: 92%
+11:00:10 INFO Video playback stopped
+11:00:11 ERROR ANR in com.example.video

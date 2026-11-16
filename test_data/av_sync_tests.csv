@@ -1,0 +1,5 @@
+test_id,max_allowed_difference,expected_result
+TC01,40,true
+TC02,30,false
+TC03,50,true
+TC04,0,false

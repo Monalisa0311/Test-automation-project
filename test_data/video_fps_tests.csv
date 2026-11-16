@@ -1,0 +1,5 @@
+test_id,minimum_fps,expected_result
+TC01,55,true
+TC02,58,true
+TC03,60,false
+TC04,30,true

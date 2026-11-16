@@ -1,0 +1,5 @@
+test_id,expected_resolution,expected_result
+TC01,1920x1080,true
+TC02,1280x720,false
+TC03,3840x2160,false
+TC04,640x480,false

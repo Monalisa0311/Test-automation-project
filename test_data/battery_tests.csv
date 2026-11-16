@@ -1,0 +1,6 @@
+test_id,min_battery_level,expected_result
+TC01,50,true
+TC02,65,true
+TC03,70,false
+TC04,30,true
+TC05,90,false
